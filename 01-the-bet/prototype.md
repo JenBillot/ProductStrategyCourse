@@ -1,19 +1,16 @@
 # The Prototype Bet
 
-## What I Built
-<!-- One sentence: what does this prototype demonstrate? -->
+**What I Built**
+A prototype demonstrating how AI could move from returning relevant documents to generating a grounded answer to a user’s question.
 
-## Tool Used
-<!-- v0 / Cursor / Lovable / other -->
+**Tool Used**
+Lovable; shareable link here - https://a5134amiassistant.lovable.app
 
-## Prototype Link
-<!-- Paste the shareable URL -->
+**AI Value Archetype**
+Copilot – supports the user in finding and understanding relevant information, while keeping the user in control.
 
-## AI Value Archetype
-<!-- Automator / Copilot / Oracle / Creator / Orchestrator -->
+**The Bet in One Sentence**
+If AI generates grounded answers rather than just returning documents, at least 70% of users will prefer the experience and will complete information-finding tasks at least 30% faster, while ≥90% of generated answers meet the agreed quality standard.
 
-## The Bet in One Sentence
-<!-- What you're building, for whom, why now -->
-
-## Kill Criteria
-<!-- When would you stop? What evidence would kill this bet? -->
+**Kill Criteria**
+We would rethink or stop the bet if fewer than 70% of users prefer the experience, task completion time improves by less than 30%, or fewer than 90% of generated answers meet the agreed quality standard.
