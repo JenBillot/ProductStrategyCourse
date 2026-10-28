@@ -87,13 +87,19 @@ Rationale: potentially broader because it could challenge the rationale for our 
 
 ---
 
-## 90-Day Encroachment Plan
+Attacker: A major enterprise AI platform provider.
 
-*Your partner played the Big Tech attacker. What was their plan to kill you?*
+Attack vector (target the weakest loop):
+ Launch an integrated medical search and answer experience that rapidly improves through user interactions, feedback and corrections.
 
-**Attacker:**
-**Attack vector (target the weakest loop):**
-**Weeks 1-4 - what they ship:**
-**Weeks 5-8 - how they poach users:**
-**Weeks 9-12 - why users don't come back:**
-**Your defense:**
+Weeks 1–4 – what they ship:
+ A conversational AI experience that searches trusted medical content and provides grounded answers directly within users’ existing workflow.
+
+Weeks 5–8 – how they poach users:
+ Drive adoption through a simpler, integrated experience that reduces the effort required to find and interpret relevant medical information.
+
+Weeks 9–12 – why users don’t come back:
+ The competitor learns from usage and feedback, improves answer quality and becomes increasingly embedded in users’ day-to-day workflow.
+
+Your defense:
+ Strengthen the data flywheel by systematically capturing real-world searches, feedback and expert evaluation, then using those signals to continuously improve quality. Differentiate through specialist medical context, trusted content, rigorous evaluation and domain-specific workflows.
