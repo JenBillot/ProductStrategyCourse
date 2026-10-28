@@ -48,22 +48,25 @@ real-world usage → identify quality signals → human evaluation → evaluatio
 ## Encroachment Threat Assessment
 
 ### 1. Platform Encroachment
-**Attacker:**
-**Vector:**
-**Time-to-threat:**
-**% of value at risk:**
+Attacker: Salesforce Agentforce
+Vector: Native AI capabilities within CEC could provide search and generated answers directly in the agents’ existing workflow, reducing the need for our tool as a seperate capability.
+Time-to-threat: Near term
+% of value at risk: ~40%
+Rationale: primarily threatens one of our use cases (but doesn't replace other use cases not in Salesforce) 
 
 ### 2. Vertical Competitor
-**Attacker:**
-**Vector:**
-**Time-to-threat:**
-**% of value at risk:**
+Attacker: IQVIA
+Vector: IQVIA could provide its own search capability as part of its outsourced contact-centre service, reducing reliance on our in-house capability
+Time-to-threat: Medium term
+% of value at risk: ~30%
+Rationale: significant exposure for the IQVIA-operated use case, but less direct impact on our owned use cases.
 
 ### 3. Adjacent Expansion
-**Attacker:**
-**Vector:**
-**Time-to-threat:**
-**% of value at risk:**
+Attacker: In-houseenterprise AI/search platforms
+Vector: A broader AI platform could expand into enterprise knowledge retrieval and grounded answer generation, potentially making a dedicated Medical search capability less differentiated.
+Time-to-threat: Medium–long term
+% of value at risk: ~50%
+Rationale: potentially broader than Salesforce/IQVIA because it could challenge the rationale for our product across multiple use cases.
 
 ---
 
